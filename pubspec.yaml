@@ -1,5 +1,5 @@
 name: zap_client
-description: Test A client for Zap server or Zap Adapters, this is part of ZapTools Proyect
+description: A client for Zap server or Zap Adapters, this is part of ZapTools Proyect
 version: 0.0.3
 repository: https://github.com/NathanDraco22/zap-client-dart
 
