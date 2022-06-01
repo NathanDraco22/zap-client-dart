@@ -1,11 +1,11 @@
 name: zap_client
-description: A client for Zap server or Zap Adapters, this is part of ZapTools Proyect
+description: Test A client for Zap server or Zap Adapters, this is part of ZapTools Proyect
 version: 0.0.3
 repository: https://github.com/NathanDraco22/zap-client-dart
 
 
 environment:
-  sdk: '>=2.16.1 <3.0.0'
+  sdk: '>=2.17.1 <3.0.0'
 
 dependencies:
   web_socket_channel: ^2.1.0
